@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![CircleCI](https://circleci.com/gh/RKalya29/project4.svg?style=svg)](https://circleci.com/gh/RKalya29/project4) 
+[![CircleCI](https://circleci.com/gh/RKalya29/Project4.svg?style=svg)](https://circleci.com/gh/RKalya29/Project4) 
 
 ## Project Overview
 
